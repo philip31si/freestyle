@@ -1,0 +1,2 @@
+# freestyle
+jenkins freestyle build
